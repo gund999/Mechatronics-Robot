@@ -64,7 +64,7 @@ The team was divided as follows:
 - Explored using a boost converter for motor operation but eventually opted against it.
 - Made adjustments to code for camera functionality, resolving issues with power fluctuations and startup time.
 
-![Pin Connections](Pin_Connections.png)
+![Pin Connections](Images/Pin_Connections.png)
 
 ## Code
 - Developed motor library and flywheel code for motor control.
