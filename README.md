@@ -13,7 +13,7 @@ The field layout consisted of the following elements:
 - The goal featured a 2 kHz IR beacon positioned in the middle, accompanied by a red penalty zone.
 - The goalie, named Sammy, had a 1.5 kHz IR beacon installed at the center of its head, with its location randomly changing every three seconds.
 
-![Field Outline](Field_Outline.png)
+![Field Outline](Images/Field_Outline.png)
 
 Each robot had to achieve the following tasks:
 - Successfully traverse the field while carrying three ping pong balls.
@@ -36,7 +36,7 @@ The team was divided as follows:
 - Engineered motor mounts for stability.
 - Developed bumpers for effective obstacle avoidance, undergoing four modifications before reaching the final iteration.
 
-![Bottom Motor/Sensor Level](Bottom_Level.png)
+![Bottom Motor/Sensor Level](Images/MechBotSensorLevel.png)
 
 #### Second Layer:
 - Isolated for electrical components.
@@ -44,15 +44,15 @@ The team was divided as follows:
 - Utilized the power distribution board for 5V and 3V3 rails.
 - Installed counter-rotating flywheels’ H-bridge and other components.
 
-![Electronic level](Electronic_Level.png)
+![Electronic level](Images/MechBotElectrical.png)
 
 #### Third Layer:
 - Dedicated to fulfilling the project goals, including ball loading and shooting mechanisms.
 - Used drive motors from BELS and shooter motors from PowerWheels for high torque and speed.
 - Designed a double flywheel shooter fed from a V-shaped shooter intake, controlled by a servo gate.
 
-![Shooter Design](Shooter_Design.png)
-![Fully Built Robot](Fully_Built_Robot.png)
+![Shooter Design](Images/Mech_FullCAD.png)
+![Fully Built Robot](Images/MechBotWhole.png)
 
 ### Problems and Design Process
 - Faced difficulties in mechanical design due to software learning curve and minor inaccuracies during fabrication.
