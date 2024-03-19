@@ -64,19 +64,12 @@ The team was divided as follows:
 - Explored using a boost converter for motor operation but eventually opted against it.
 - Made adjustments to code for camera functionality, resolving issues with power fluctuations and startup time.
 
-![Block Diagram](Block_Diagram.png)
 ![Pin Connections](Pin_Connections.png)
 
 ## Code
 - Developed motor library and flywheel code for motor control.
 - Incorporated gate control code and state machine framework.
 - Utilized event checking functions for goal detection and behavior decision-making.
-
-![Motor Driver Code](Motor_Driver_Code.png)
-![Flywheel Code](Flywheel_Code.png)
-![Servo Code](Servo_Code.png)
-![CheckDestination() & CheckCam() functions](Check_Functions.png)
-
 - Implemented a hierarchical state machine (HSM) for overall robot behavior.
 - Debugged and iterated on code to achieve desired robot behavior within project constraints.
 
@@ -85,8 +78,3 @@ The team was divided as follows:
 ## Conclusion
 Despite facing challenges throughout the design and assembly process, the team successfully developed an autonomous robot capable of navigating the designated field and scoring goals against the opponent goalie. While certain issues arose during testing and implementation, the team was able to adapt and overcome them to deliver a functional robot within project constraints.
 
-For detailed code, refer to Gitlab repository (branch: Evan-work for camera code, Ayush for beacon code):
-- Commit ID: E24244a3da774f0d375eaa8c5dc94d79bab041b5
-
-### Appendix
-[Hierarchical State Machine (HSM) Code](HSM_Code.txt)
