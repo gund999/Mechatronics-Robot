@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>SCHitters</name>
+            <creation-uuid>f75de731-ec1a-4b27-9c62-cd674e667d62</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>C:/Users/mufct/Desktop/New_folder/s/UCSC/Y4/Q3/ECE118/final project/Files</sourceRootElem>
+                <sourceRootElem>.</sourceRootElem>
+                <sourceRootElem>C:/Users/mufct/Desktop/New_folder/s/UCSC/Y4/Q3/ECE118/ece118-final/Files</sourceRootElem>
+                <sourceRootElem>../files</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>

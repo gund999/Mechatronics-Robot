@@ -1,0 +1,1 @@
+ $(MP_EXTRA_CC_PRE)  -g -x c -c -mprocessor=$(MP_PROCESSOR_OPTION)  -fno-common -I"../Files/srcs" -I"../Files/templates" -I"../Files/include" -I"."   -DXPRJ_default=$(CND_CONF)  -legacy-libc  $(COMPARISON_BUILD)  -mdfp="${DFP_DIR}"  C:\Users\eadra\Desktop\School Stuff\ECE118\Labs\Lab5\ece118-final\files\src\serial.c
