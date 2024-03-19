@@ -1,5 +1,5 @@
 # Autonomous Robot Project Documentation
-
+![Fully Built Robot](Images/MechBotWhole.png)
 ## Objective
 
 The objective of this project was to develop and construct an autonomous robot capable of navigating a designated field and successfully scoring goals against a goalie referred to as the "Giant Slug." 
@@ -52,7 +52,6 @@ The team was divided as follows:
 - Designed a double flywheel shooter fed from a V-shaped shooter intake, controlled by a servo gate.
 
 ![Shooter Design](Images/Mech_FullCAD.png)
-![Fully Built Robot](Images/MechBotWhole.png)
 
 ### Problems and Design Process
 - Faced difficulties in mechanical design due to software learning curve and minor inaccuracies during fabrication.
